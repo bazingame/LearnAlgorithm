@@ -1,1 +1,4 @@
 ./SUMMARY.resource
+*.json
+*resource/
+*.config
